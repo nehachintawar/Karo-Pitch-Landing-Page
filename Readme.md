@@ -49,6 +49,10 @@ This project was created as part of a frontend assignment to demonstrate skills 
 
 ![home page mobile view](./imgaes/img2.png)
 
+## Live Website
+
+[Visit Live Site](https://karo-pitch-landing-page.vercel.app/)
+
 ## 👨‍💻 Author
 
 Neha Chintawar
