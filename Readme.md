@@ -51,7 +51,7 @@ This project was created as part of a frontend assignment to demonstrate skills 
 
 ## Live Website
 
-[Visit Live Site](https://karo-pitch-landing-page.vercel.app/)
+(https://karo-pitch-landing-page.vercel.app/)
 
 ## 👨‍💻 Author
 
